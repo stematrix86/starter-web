@@ -8,6 +8,10 @@ Introduction Paragraph Text
 
 ## Purpose
 
-## Deloyment
+Purpose Paragraph Text
+
+## Deployment
+
+Deployment Paragraph Text
 
 ## How To Contribute
