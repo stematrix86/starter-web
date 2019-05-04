@@ -16,6 +16,8 @@ Deployment Paragraph Text
 
 ## How To Contribute
 
+Contribute Text Example
+
 ### Copyright
 
 Copyright Informations
