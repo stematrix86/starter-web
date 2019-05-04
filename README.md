@@ -15,3 +15,7 @@ Purpose Paragraph Text
 Deployment Paragraph Text
 
 ## How To Contribute
+
+### Copyright
+
+Copyright Informations
