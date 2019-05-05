@@ -1,6 +1,6 @@
 # Starter Web Project
 
-Example of git repository for merge and diff
+Example of git repository for merge and diff. Add one line for rebase
 
 ## Introduction
 
