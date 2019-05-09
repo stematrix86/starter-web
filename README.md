@@ -20,4 +20,4 @@ Contribute Text Example
 
 ### Copyright
 
-Copyright Informations
+Copyright Informations. All rights reserved.
